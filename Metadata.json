@@ -1,0 +1,20 @@
+{
+    "Author": "Theo Browning",
+    "ContentSize": 3339,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-all-resources-in-a-resource-group-for-a-configured-alert-rule-with-ps./master/CheckAllResourcesInResourceGroupForAlerts.ps1",
+    "DownloadCount": 694,
+    "Id": "Check-all-resources-in-a-93316a74",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 469,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-2-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Checks all Azure Resources in a given Azure Resource Group for the presence of a configured Alert Rule and reports the status for each Resource. This script does not check for multiple Alert Rules, simply the presence of 1 or none as that was the request given to me. Could be e",
+    "Title": "Check all resources in a Resource Group for a configured Alert Rule with PS.",
+    "UpdatedDate": "2018-2-21T00:00:00",
+    "Url": "https://github.com/azureautomation/check-all-resources-in-a-resource-group-for-a-configured-alert-rule-with-ps.",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
